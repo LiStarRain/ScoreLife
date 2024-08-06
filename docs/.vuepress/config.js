@@ -17,6 +17,12 @@ export default defineUserConfig({
   theme: defaultTheme({
     logo,
 
+    // 仓库地址
+    repo: 'https://github.com/LiStarRain/LiStarRain.github.io.git',
+
+    // 侧边栏深度
+    sidebarDepth: 3,
+
     // 导航栏配置
     navbar: [
       { text: '首页', link: '/' },
