@@ -3,22 +3,47 @@ lang: zh-CN
 title: 准备工作
 description: 正式开始学习前的准备工作
 date: 2024-08-07
+sidebar: false
 ---
 
-## 准备
+## 前言
 
-### ddd
+在正式开始学习前，我们需要先提前准备一些在接下来的学习中需要用到的东西，以便于在学习过程中能够提高效率，专心于知识本身，不被其他琐事所打断。
 
-#### llllll
+值得一提的是，刚开始学习时我们尽量只使用纸笔和钢琴来练习，这样做的目的是能够让你对自己写的东西有一个更加直观的感受，比如力度、动态、音色等，不要依赖于各种软件代替你演奏。
 
-<audio controls>
-  <source src="/track/1.m4a" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-123
+## 五线谱
 
-## 对对对
+我们需要准备一本五线谱本或者打印一些五线谱纸张，以便于日常的写作练习，下面是我自己所使用的五线谱本子：
 
-大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd 大三度 loremdasdasdasdsadasddddddddddddddddddddddddddddddddddddddddddddddd
+![五线谱本](./images/book.jpg "五线谱本" =300x400)
 
-## 大三度
+![五线谱本](./images/book2.jpg "五线谱本" =400x300)
+
+或者用 ipad 也行，只不过需要去找一找一些电子版的总谱，用 ipad、画板之类的设备有个好处就是方便修改：
+
+![ipad](./images/ipad.jpg "ipad" =500x300)
+
+## 铅笔、擦头和尺子
+
+铅笔可以买笔芯稍微粗一点的，我用的是 0.7 的铅笔，尺子主要用来画一些小节线之类的东西：
+
+![pencil](./images/pencil.jpg "铅笔、尺子和橡皮擦" =500x200)
+
+因为发现橡皮屑很难清理，于是我又买了一个桌面吸尘器，属于是差生文具多了:joy::
+
+![cleaner](./images/cleaner.jpg "桌面吸尘器" =300x250)
+
+## 乐器
+
+乐器的话最好还是准备一个键盘乐器，因为键盘乐器音符排列比较直观，能够快速找到你想演奏的音符，如果是弦乐器的话难度就稍微有点大了，同一个音符甚至能在不同弦上演奏，没有键盘那么直观；原声钢琴是最优选，条件不允许的话也可以选用电钢（数字键盘）：
+
+![Roland FP-30X](./images/Fp30X.jpg '罗兰 FP-30X')
+
+或者使用 MIDI 键盘也行，但不推荐用 MIDI 键盘练琴：
+
+![M-Audio keystation 61](./images/MAudio.jpg 'MIDI键盘')
+
+## 时间
+
+最后一个需要准备的东西也是最重要的东西，它就是时间，坚持每天挤出一点点时间学习或者练习，相信很久以后一定会受益匪浅。

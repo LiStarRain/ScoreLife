@@ -1,5 +1,7 @@
 import { viteBundler } from '@vuepress/bundler-vite';
 import { defaultTheme } from '@vuepress/theme-default';
+import { mediumZoomPlugin } from '@vuepress/plugin-medium-zoom';
+import { markdownImagePlugin } from '@vuepress/plugin-markdown-image';
 import { defineUserConfig } from 'vuepress';
 import logoPath from './logoPath';
 
@@ -28,7 +30,7 @@ export default defineUserConfig({
       { text: '首页', link: '/' },
       { text: '准备工作', link: '/preliminary/' },
       {
-        text: '作曲课程',
+        text: '作曲学习',
         link: '/courses/',
         children: [{ text: '基础练习', link: '/courses/ECTF.md' }],
       },
@@ -45,5 +47,19 @@ export default defineUserConfig({
       },
     ],
   }),
+
+  // 插件
+  plugins: [
+    mediumZoomPlugin,
+    markdownImagePlugin({
+      // 启用figure
+      figure: true,
+      // 启用图片懒加载
+      lazy: true,
+      // width x height设置图片尺寸
+      size: true,
+    }),
+  ],
+
   bundler: viteBundler(),
 });
