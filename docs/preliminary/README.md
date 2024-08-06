@@ -16,23 +16,21 @@ sidebar: false
 
 我们需要准备一本五线谱本或者打印一些五线谱纸张，以便于日常的写作练习，下面是我自己所使用的五线谱本子：
 
-![五线谱本](./images/book.jpg "五线谱本" =300x400)
-
-![五线谱本](./images/book2.jpg "五线谱本" =400x300)
+![五线谱本](./images/book.jpg '五线谱本')
 
 或者用 ipad 也行，只不过需要去找一找一些电子版的总谱，用 ipad、画板之类的设备有个好处就是方便修改：
 
-![ipad](./images/ipad.jpg "ipad" =500x300)
+![ipad](./images/ipad.jpg 'ipad')
 
 ## 铅笔、擦头和尺子
 
 铅笔可以买笔芯稍微粗一点的，我用的是 0.7 的铅笔，尺子主要用来画一些小节线之类的东西：
 
-![pencil](./images/pencil.jpg "铅笔、尺子和橡皮擦" =500x200)
+![pencil](./images/pencil.jpg '铅笔、尺子和橡皮擦')
 
 因为发现橡皮屑很难清理，于是我又买了一个桌面吸尘器，属于是差生文具多了:joy::
 
-![cleaner](./images/cleaner.jpg "桌面吸尘器" =300x250)
+![cleaner](./images/cleaner.jpg '桌面吸尘器')
 
 ## 乐器
 
