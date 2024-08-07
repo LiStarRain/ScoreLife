@@ -2,6 +2,7 @@ import { viteBundler } from '@vuepress/bundler-vite';
 import { defaultTheme } from '@vuepress/theme-default';
 import { mediumZoomPlugin } from '@vuepress/plugin-medium-zoom';
 import { markdownImagePlugin } from '@vuepress/plugin-markdown-image';
+import { searchPlugin } from '@vuepress/plugin-search';
 import { defineUserConfig } from 'vuepress';
 import logoPath from './logoPath';
 
@@ -18,6 +19,15 @@ export default defineUserConfig({
 
   theme: defaultTheme({
     logo,
+
+    // 页面文字设置
+    contributorsText: '贡献者',
+    lastUpdatedText: '上次更新',
+    editLinkText: '编辑此页',
+    notFound: ['这里什么都没有哦~', 'Sorry~啥都没有找到~'],
+    prev: '上一页',
+    next: '下一页',
+    backToHome: '回到首页',
 
     // 仓库地址
     repo: 'https://github.com/LiStarRain/LiStarRain.github.io.git',
@@ -46,7 +56,7 @@ export default defineUserConfig({
 
     // 侧边栏深度
     sidebarDepth: 3,
-    // 侧边栏元素设置
+    // 侧边栏设置
     sidebar: {
       '/courses/ECTF/': [
         {
@@ -73,6 +83,12 @@ export default defineUserConfig({
       lazy: true,
       // width x height设置图片尺寸
       size: true,
+    }),
+    searchPlugin({
+      // placeholder
+      locales: '搜索',
+      // 排除首页
+      isSearchable: page => page.path !== '/',
     }),
   ],
 

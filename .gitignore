@@ -6,3 +6,5 @@
 /docs/.vuepress/dist/
 # 依赖包
 node_modules/
+# mac
+.DS_Store

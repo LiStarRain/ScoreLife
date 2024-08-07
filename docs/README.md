@@ -25,5 +25,5 @@ features:
   - title: 淡定！淡定！淡定！
     details: 学习作曲是一个长期的过程，不可能短时间内就能学会，踏踏实实学好每个知识点，不要贪图速度！
 
-footer: coding by Li xingyu © 2024 如有侵权，请联系我删除相关内容！
+footer: coding by Li Xingyu © 2024 如有侵权，请联系我删除相关内容！
 ---
