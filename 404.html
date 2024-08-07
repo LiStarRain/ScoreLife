@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="generator" content="VuePress 2.0.0-rc.14" />
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+
+      html.dark {
+        --c-bg: #22272e;
+      }
+
+      html,
+      body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme')
+      const systemDarkMode =
+        window.matchMedia &&
+        window.matchMedia('(prefers-color-scheme: dark)').matches
+
+      if (userMode === 'light') {
+        document.documentElement.dataset.theme = 'light'
+      } else if (userMode === 'dark' || systemDarkMode) {
+        document.documentElement.classList.toggle('dark', true)
+        document.documentElement.dataset.theme = 'dark'
+      }
+    </script>
+    <link rel="icon" href="/images/soda.png"><title>ScoreLife</title><meta name="description" content="ScoreLife 是一个有关作曲学习的网站">
+    <link rel="preload" href="/assets/style-Cq_oyeom.css" as="style"><link rel="stylesheet" href="/assets/style-Cq_oyeom.css">
+    <link rel="modulepreload" href="/assets/app-DuK7fh7J.js"><link rel="modulepreload" href="/assets/404.html-BolpI-73.js">
+    <link rel="prefetch" href="/assets/index.html-CtQePMrU.js" as="script"><link rel="prefetch" href="/assets/index.html-U7fCr40C.js" as="script"><link rel="prefetch" href="/assets/Introduction.html-Dp8CfauM.js" as="script"><link rel="prefetch" href="/assets/Voicings.html-Cgz87KxP.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="vp-theme-container" data-v-0c01291c><main class="page" data-v-0c01291c><div class="theme-default-content" data-v-0c01291c><h1 data-v-0c01291c>404</h1><blockquote data-v-0c01291c>Sorry~啥都没有找到~</blockquote><a class="route-link" href="/" data-v-0c01291c>回到首页</a></div></main></div><!--[--><!----><!--]--><!--]--></div>
+    <script type="module" src="/assets/app-DuK7fh7J.js" defer></script>
+  </body>
+</html>
