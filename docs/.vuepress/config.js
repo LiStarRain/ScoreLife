@@ -22,9 +22,6 @@ export default defineUserConfig({
     // 仓库地址
     repo: 'https://github.com/LiStarRain/LiStarRain.github.io.git',
 
-    // 侧边栏深度
-    sidebarDepth: 3,
-
     // 导航栏配置
     navbar: [
       { text: '首页', link: '/' },
@@ -32,7 +29,7 @@ export default defineUserConfig({
       {
         text: '作曲学习',
         link: '/courses/',
-        children: [{ text: '基础练习', link: '/courses/ECTF.md' }],
+        children: [{ text: '基础练习', link: '/courses/ECTF/Introduction.md' }],
       },
       {
         text: '联系我',
@@ -46,6 +43,24 @@ export default defineUserConfig({
         ],
       },
     ],
+
+    // 侧边栏深度
+    sidebarDepth: 3,
+    // 侧边栏元素设置
+    sidebar: {
+      '/courses/ECTF/': [
+        {
+          text: '引言',
+          link: '/courses/ECTF/Introduction.md',
+          collapsible: true,
+        },
+        // {
+        //   text: '声部和声部进行',
+        //   link: '/courses/ECTF/Voicings.md',
+        //   collapsible: true,
+        // },
+      ],
+    },
   }),
 
   // 插件
